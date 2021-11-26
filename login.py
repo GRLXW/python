@@ -8,4 +8,6 @@ num4 = 400
 
 num6 = 666
 
+num = 7777  
+
 over
